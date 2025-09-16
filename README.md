@@ -22,3 +22,7 @@
    ```bash
    npm run test
    ```
+
+### Reference
+
+- [Google Docs - (주)사각*코딩테스트*알고리즘\_소감](https://docs.google.com/document/d/1ALvSs5mcM7iCsuaVY9PnyR4yMT3mq1nJ0E8HFzqOiAs/edit?usp=sharing)
